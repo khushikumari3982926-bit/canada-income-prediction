@@ -18,7 +18,4 @@ Linear Regression model trained using year as input.
 ## 🔍 Prediction Example
 Predicted income for 2028: $47,916
 
-## 🚀 How to Run
-1. Open notebook
-2. Run all cells
-3. Upload CSV file
+
